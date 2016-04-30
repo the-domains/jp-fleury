@@ -1,0 +1,28 @@
+name: JP Fleury
+favicon: null
+layout_spectrum: 0.400357520673424
+typography_spectrum: 0.41629524040035903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8239558080676943
+  lightness: 0.8264979354571551
+  saturation: 0.8830235891509801
+  rhythmicContrast: 0.9132550663780421
+purpose: []
